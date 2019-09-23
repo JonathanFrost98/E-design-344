@@ -1,0 +1,537 @@
+Circuit: * H:\E-design 344\LTspice\draft3.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.00100083
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 0.00100083
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 7.57576%
+Source Step = 15.1515%
+Source Step = 22.7273%
+Source Step = 28.9773%
+vernier = 0.015625
+Source Step = 29.2614%
+Source Step = 29.7348%
+Source Step = 30.2083%
+Source Step = 30.6818%
+Source Step = 31.1553%
+vernier = 0.0234375
+Source Step = 31.8419%
+Source Step = 32.5521%
+Source Step = 33.2623%
+Source Step = 33.9725%
+Source Step = 34.6828%
+vernier = 0.0351563
+Source Step = 35.6771%
+Source Step = 36.7424%
+Source Step = 37.8078%
+Source Step = 38.8731%
+Source Step = 39.9384%
+vernier = 0.0527344
+Source Step = 41.3767%
+Source Step = 42.9747%
+Source Step = 44.5727%
+Source Step = 46.1707%
+Source Step = 47.1495%
+Source Step = 47.2493%
+Source Step = 47.3492%
+Source Step = 47.4491%
+Source Step = 47.549%
+Source Step = 47.6489%
+Source Step = 47.7487%
+Source Step = 47.8486%
+Source Step = 47.9485%
+Source Step = 48.0484%
+vernier = 0.00494385
+Source Step = 48.1882%
+Source Step = 48.338%
+Source Step = 48.4878%
+Source Step = 48.6376%
+Source Step = 48.7874%
+vernier = 0.00741577
+Source Step = 48.9897%
+Source Step = 49.2144%
+Source Step = 49.4391%
+Source Step = 49.6638%
+Source Step = 49.8886%
+vernier = 0.0111237
+Source Step = 50.1807%
+Source Step = 50.5178%
+Source Step = 50.8549%
+Source Step = 51.1919%
+Source Step = 51.529%
+vernier = 0.0166855
+Source Step = 51.9504%
+Source Step = 52.456%
+Source Step = 52.9616%
+Source Step = 53.4672%
+Source Step = 53.9729%
+vernier = 0.0250282
+Source Step = 54.5796%
+Source Step = 55.338%
+Source Step = 56.0965%
+Source Step = 56.8549%
+Source Step = 57.6133%
+vernier = 0.0375423
+Source Step = 58.4855%
+Source Step = 59.6232%
+Source Step = 60.7608%
+Source Step = 61.8985%
+Source Step = 63.0361%
+vernier = 0.0563135
+Source Step = 64.2875%
+Source Step = 65.994%
+Source Step = 67.7005%
+Source Step = 69.4069%
+Source Step = 71.1134%
+vernier = 0.0844703
+Source Step = 72.9052%
+Source Step = 75.4649%
+Source Step = 78.0246%
+Source Step = 80.5843%
+Source Step = 83.144%
+Source Step = 85.7037%
+vernier = 0.126705
+Source Step = 89.5433%
+Source Step = 93.3828%
+Source Step = 93.8028%
+Source Step = 93.8628%
+Source Step = 93.9228%
+Source Step = 93.9828%
+Source Step = 94.0428%
+Source Step = 94.1028%
+Source Step = 94.1627%
+Source Step = 94.2227%
+Source Step = 94.2827%
+Source Step = 94.3427%
+Source Step = 94.4027%
+Source Step = 94.4627%
+Source Step = 94.5227%
+Source Step = 94.5827%
+Source Step = 94.6427%
+Source Step = 94.7027%
+Source Step = 94.7627%
+Source Step = 94.8227%
+Source Step = 94.8827%
+Source Step = 94.9427%
+Source Step = 95.0027%
+Source Step = 95.0626%
+Source Step = 95.1226%
+Source Step = 95.1826%
+Source Step = 95.2426%
+Source Step = 95.3026%
+Source Step = 95.3626%
+Source Step = 95.4226%
+Source Step = 95.4826%
+Source Step = 95.5426%
+Source Step = 95.6026%
+Source Step = 95.6626%
+Source Step = 95.7226%
+Source Step = 95.7826%
+Source Step = 95.8426%
+Source Step = 95.9025%
+Source Step = 95.9625%
+Source Step = 96.0225%
+Source Step = 96.0825%
+Source Step = 96.1425%
+Source Step = 96.2025%
+Source Step = 96.2625%
+Source Step = 96.3225%
+Source Step = 96.3825%
+Source Step = 96.4425%
+Source Step = 96.5025%
+Source Step = 96.5625%
+Source Step = 96.6225%
+Source Step = 96.6825%
+Source Step = 96.7424%
+Source Step = 96.8024%
+Source Step = 96.8624%
+Source Step = 96.9224%
+Source Step = 96.9824%
+Source Step = 97.0424%
+Source Step = 97.1024%
+Source Step = 97.1624%
+Source Step = 97.2224%
+Source Step = 97.2824%
+Source Step = 97.3424%
+Source Step = 97.4024%
+Source Step = 97.4624%
+Source Step = 97.5224%
+Source Step = 97.5824%
+Source Step = 97.6423%
+Source Step = 97.7023%
+Source Step = 97.7623%
+Source Step = 97.8223%
+Source Step = 97.8823%
+Source Step = 97.9423%
+Source Step = 98.0023%
+Source Step = 98.0623%
+Source Step = 98.1223%
+Source Step = 98.1823%
+Source Step = 98.2423%
+Source Step = 98.3023%
+Source Step = 98.3623%
+Source Step = 98.4223%
+Source Step = 98.4822%
+Source Step = 98.5422%
+Source Step = 98.6022%
+Source Step = 98.6622%
+Source Step = 98.7222%
+Source Step = 98.7822%
+Source Step = 98.8422%
+Source Step = 98.9022%
+Source Step = 98.9622%
+Source Step = 99.0222%
+Source Step = 99.0822%
+Source Step = 99.1422%
+Source Step = 99.2022%
+Source Step = 99.2622%
+Source Step = 99.3222%
+Source Step = 99.3821%
+Source Step = 99.4421%
+Source Step = 99.5021%
+Source Step = 99.5621%
+Source Step = 99.6221%
+Source Step = 99.6821%
+Source Step = 99.7421%
+Source Step = 99.8021%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 99.7576%
+Source Step = 99.5741%
+Source stepping failed
+
+Pseudo Transient failed in finding the operating point.
+Trouble finding operating point....skipping operating point for Transient analysis.
+Changing Tseed to 1e-007
+Changing Tseed to 1e-009
+Changing Tseed to 1e-006
+Changing Tseed to 1e-010
+Changing Tseed to 1e-005
+Changing Tseed to 1e-011
+Changing Tseed to 0.0001
+Changing Tseed to 1e-012
+Changing Tseed to 0.001
+Changing Tseed to 1e-013
+Changing Tseed to 0.01
+Changing Tseed to 1e-014
+Heightened Def Con from 0 Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
++to 1.125e-009
+Heightened Def Con from 0.00768386 to 0.00768386
+Heightened Def Con from 0.00782483 to 0.00782483
+Heightened Def Con from 0.00782495 to 0.00782495
+Heightened Def Con from 0.00782508 to 0.00782508
+Heightened Def Con from 0.00782532 to 0.00782532
+Heightened Def Con from 0.00782608 to 0.00782608
+Heightened Def Con from 0.00782665 to 0.00782665
+Heightened Def Con from 0.0078269 to 0.0078269
+Heightened Def Con from 0.00782708 to 0.00782708
+Heightened Def Con from 0.00782746 to 0.00782746
+Heightened Def Con from 0.00782808 to 0.00782808
+Heightened Def Con from 0.0217894 +++++++++++++to 0.0217894
+Heightened Def Con from 0.0223489 to 0.0223489
+Heightened Def Con from 0.0264859 to 0.0264859
+Heightened Def Con from 0.0264866 to 0.0264866
+Heightened Def Con from 0.0264869 to 0.0264869
+Heightened Def Con from 0.026487 to 0.026487
+Heightened Def Con from 0.0264871 to 0.0264871
+Heightened Def Con from 0.0264872 to 0.0264872
+Heightened Def Con from 0.0264877 to 0.0264877
+Heightened Def Con from 0.0264882 to 0.0264882
+Heightened Def Con from 0.0264892 to 0.0264892
+Heightened Def Con from 0.0264901 to 0.0264901
+Heightened Def Con from 0.026491 to 0.026491
+Heightened Def Con from 0.0462341 to 0.0462341
+Heightened Def Con from 0.0462343 to 0.0462343
+Heightened Def Con from 0.0462345 to 0.0462345
+Heightened Def Con from 0.0462349 to 0.0462349
+Heightened Def Con from 0.0462352 to 0.0462352
+Heightened Def Con from 0.0462354 to 0.0462354
+Heightened Def Con from 0.0462355 to 0.0462355
+Heightened Def Con from 0.0462358 to 0.0462358
+Heightened Def Con from 0.0462366 to 0.0462366
+Heightened Def Con from 0.0462368 to 0.0462368
+Heightened Def Con from 0.0462369 to 0.0462369
+Heightened Def Con from 0.0462372 to 0.0462372
+Heightened Def Con from 0.0462382 to 0.0462382
+Heightened Def Con from 0.0462382 to 0.0462382
+Heightened Def Con from 0.0462386 to 0.0462386
+Heightened Def Con from 0.046239 to 0.046239
+Heightened Def Con from 0.0462395 to 0.0462395
+Heightened Def Con from 0.0462397 +to 0.0462397
+Heightened Def Con from 0.0827432 to 0.0827432
+Heightened Def Con from 0.0828768 to 0.0828768
+Heightened Def Con from 0.0868671 to 0.0868671
+Heightened Def Con from 0.0872397 to 0.0872397
+Heightened Def Con from 0.101971 to 0.101971
+Heightened Def Con from 0.102897 to 0.102897
+Heightened Def Con from 0.102914 to 0.102914
+Heightened Def Con from 0.107237 to 0.107237
+Heightened Def Con from 0.107237 to 0.107237
+Heightened Def Con from 0.122742 to 0.122742
+Heightened Def Con from 0.122858 to 0.122858
+Heightened Def Con from 0.147237 to 0.147237
+Heightened Def Con from 0.147237 to 0.147237
+Heightened Def Con from 0.162201 ++++++++++++++to 0.162201
+Heightened Def Con from 0.162862 to 0.162862
+Heightened Def Con from 0.162895 to 0.162895
+Heightened Def Con from 0.167239 to 0.167239
+
+Date: Mon Sep 23 13:49:18 2019
+Total elapsed time: 11.950 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 420164
+traniter = 197385
+tranpoints = 52846
+accept = 37750
+rejected = 18818
+matrix size = 139
+fillins = 264
+solver = Normal
+Thread vector: 26.7/13.1[3] 2.0/1.2[3] 2.8/1.9[3] 1.4/1.2[2]  2592/500
+Matrix Compiler1: 23.39 KB object code size  4.5/2.1/[1.3]
+Matrix Compiler2: off  [1.9]/4.3/2.1
+
+
