@@ -1,0 +1,23 @@
+REWORD all of this
+
+
+The exclusive OR, XOR phase detector circuit can provide a very useful simple phase detector for some applications. It comprises of a logic exclusive OR circuit. Being digital in format it can often fit into a phase locked loop with ease as many of the circuits associated with the phase locked loop may already be in a digital format. Alternatively an exclusive OR can be made from discrete components to give a wider variety of levels and other options.
+
+initial circuit design:
+
+4
+
+If its a continuous waveform, you can use a DC blocking capacitor and then use some resistors to set the DC common mode point and scale it as well. Then feed it into an LM339 comparator to get your digital output. Something like this. I have NOT calculated the resistor ratio's! But setting R3 will let you attenuate the incoming waveform. R4/R5 sets the threshold for switching the comparator output. R6 is needed because the LM339 is open collector output.
+
+improved circuit design
+
+8
+
+I would like to suggest that the comparator circuit shown by @hwengmgr could use some small improvements over what was posted.
+
+Improvements include:
+
+Bigger capacitor value to reduce filter effect of the capacitor at frequency.
+Larger value resistors in dividers to reduce current load on source supply.
+Added hysteresis at the comparator to make the circuit less sensitive to noise that may be on the input waveform.
+Changed pullup resistor on output of comparator to a more sane value for 1mA load instead of 33mA.

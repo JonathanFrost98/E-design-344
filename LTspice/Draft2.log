@@ -1,24 +1,22 @@
-Questionable use of curly braces in ".model tzx5v1b d is=5u cjo=100p bv=5 ibv=5m tupe={zener}"
-    Error: undefined symbol in: "[zener]"
-Circuit: * H:\E-design 344\Draft2.asc
+Circuit: * H:\E-design 344\LTspice\Draft2.asc
 
 Direct Newton iteration for .op point succeeded.
 
-Date: Sun Aug 11 15:41:14 2019
-Total elapsed time: 26.989 seconds.
+Date: Fri Sep 20 15:47:49 2019
+Total elapsed time: 34.891 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 7137987
-traniter = 7137978
-tranpoints = 2466665
-accept = 1874329
-rejected = 592336
+totiter = 6974970
+traniter = 6974951
+tranpoints = 2436303
+accept = 1856389
+rejected = 579914
 matrix size = 13
 fillins = 0
 solver = Normal
-Matrix Compiler1: 656 bytes object code size  0.3/0.1/[0.1]
+Matrix Compiler1: 656 bytes object code size  0.3/0.1/[0.0]
 Matrix Compiler2: off  [0.1]/0.1/0.1
 
 

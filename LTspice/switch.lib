@@ -1,0 +1,3 @@
+S1 out 0 in 0 MySwitch
+
+.model MySwitch SW(Ron=.1 Roff=1Meg Vt=0 Vh=-.5 Lser=10n Vser=.6)
